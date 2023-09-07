@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* For hsl(198deg 93% 60% / <alpha-value>) */
+    --white: 0deg 0% 100%;
+    --lightgray: 212, 45%, 89%
+    --grayishblue: 220, 15%, 55%
+    --darkblue: 218, 44%, 22%
+
+  }
+}

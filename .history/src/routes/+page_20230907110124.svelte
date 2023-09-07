@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | QR code component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+
+</head>
+<body class="h-screen bg-gray-200 flex justify-center items-center flex-col">
+<main class=" border rounded-lg h-[32rem] w-[20rem] bg-white p-3 text-center">
+    <div class="w-3"><img src="/images/image-qr-code.png" alt=""></div>
+    <div class="text-2xl font-bold">Improve your front-end skils by building projects</div>
+    <div class="text-md text-zinc-600 ">Scan the QR code to visit Mentor and take your coding skills to the next level</div>
+</main>
+<footer class="mt-4">
+    <div class="text-xs font-semibold text-center">Challenge by <a class="text-blue-700" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Septian Hadi P</a></div>
+  </footer>
+</body>
+</html>
